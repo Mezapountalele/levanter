@@ -60,9 +60,27 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
 6. **Enter Environment Variables:**
     ```sh
     echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
+PREFIX = .
+STICKER_PACKNAME = LyFE
+ALWAYS_ONLINE = true
+RMBG_KEY = null
+LANGUAG = french
+WARN_LIMIT = 3
+FORCE_LOGOUT = false
+BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
+MAX_UPLOAD = 200
+REJECT_CALL = false
+SUDO = 989876543210
+TZ = Asia/Kolkata
+VPS = true
+AUTO_STATUS_VIEW = true
+SEND_READ = true
+AJOIN = true
+DISABLE_START_MESSAGE = true
+PERSONAL_MESSAGE = null" > config.env
     PREFIX = .
     STICKER_PACKNAME = LyFE
-    ALWAYS_ONLINE = false
+    ALWAYS_ONLINE = true
     RMBG_KEY = null
     LANGUAG = en
     WARN_LIMIT = 3
